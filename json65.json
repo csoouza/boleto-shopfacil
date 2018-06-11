@@ -1,0 +1,48 @@
+{
+    "meio_pagamento": "300",
+    "merchant_id": "MID",
+    "pedido": {
+        "numero": "",
+        "valor": 6500,
+        "descricao": "O cartão benefício dos caminhoneiros"
+    },
+    "comprador": {
+        "nome": "Nome do comprador/sacado",
+        "documento": "",
+        "endereco": {
+            "cep": "",
+            "logradouro": "",
+            "numero": "",
+            "complemento": "",
+            "bairro": "",
+            "cidade": "",
+            "uf": ""
+        }
+    },
+    "boleto": {
+        "beneficiario": "",
+        "carteira": "9",
+        "nosso_numero": "",
+        "data_emissao": "",
+        "data_vencimento": "",
+        "valor_titulo": 6500,
+        "instrucoes": {
+            "instrucao_linha_1": "- Sr. Caixa, cobrar multa de 2% e Mora diaria ",
+            "instrucao_linha_2": "de R$ 0,58, apos o vencimento.",
+            "instrucao_linha_3": " - Receber ate 10 dias apos o vencimento.",
+            "instrucao_linha_4": "- Em caso de duvidas entre em contato conosco",
+            "instrucao_linha_5": " financeiro@sindecard.com.br",
+            "instrucao_linha_6": "",
+            "instrucao_linha_7": "",
+            "instrucao_linha_8": "",
+            "instrucao_linha_9": "",
+            "instrucao_linha_10": "",
+            "instrucao_linha_11": "",
+            "instrucao_linha_12": ""
+        },
+        "url_logotipo": "http://www.sindecard.com.br/imagens/logo.png",
+        "mensagem_cabecalho": "O cartão benefício dos caminhoneiros",
+        "tipo_renderizacao": "2"
+    },
+    "token_request_confirmacao_pagamento": "NUMERO TOKEN"
+}
